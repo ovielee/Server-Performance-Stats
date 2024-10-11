@@ -135,6 +135,20 @@ echo "==============================="
 
 exit 0
 ```
+Step 4: Save and Exit
+In nano, save the file by pressing CTRL + O, then press Enter. Exit by pressing CTRL + X.
+
+Step 5: Make the Script Executable
+Change the permissions of the script to make it executable:
+
+```bash
+chmod +x server-stats.sh
+```
+Step 7: Run the Script
+Execute the script to see the server performance stats:
+```bash
+./server-stats.sh
+```
 
 
 

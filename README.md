@@ -150,5 +150,9 @@ Execute the script to see the server performance stats:
 ./server-stats.sh
 ```
 
+Output of the Project
+![image](https://github.com/user-attachments/assets/6064b95a-cc6c-4186-9dba-28bc5fe989ca)
+
+
 
 

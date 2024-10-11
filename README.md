@@ -151,7 +151,8 @@ Execute the script to see the server performance stats:
 ```
 
 Output of the Project
-![image](https://github.com/user-attachments/assets/6064b95a-cc6c-4186-9dba-28bc5fe989ca)
+![image](https://github.com/user-attachments/assets/f170fafa-1ec0-4ea9-8981-40a7db32a7fd)
+
 
 
 
